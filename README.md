@@ -10,3 +10,7 @@ TheNeuronProject is a collection of our open-source projects. It's ongoing devel
 - Dustin Van Tate Testa
 
 ## Supports from Store
+
+## Special Thanks
+
+- [Araxis](https://www.araxis.com/) for providing a no-cost license of Araxis Merge
