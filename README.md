@@ -8,6 +8,7 @@ TheNeuronProject is a collection of our open-source projects. It's ongoing devel
 ## Backers via Patreon
 
 - Dustin Van Tate Testa
+- Elliot Wolk
 
 ## Supports from Store
 
