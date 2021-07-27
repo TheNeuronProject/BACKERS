@@ -9,6 +9,7 @@ TheNeuronProject is a collection of our open-source projects. It's ongoing devel
 
 - Dustin Van Tate Testa
 - Elliot Wolk
+- Stuart Irwin
 
 ## Supports from Store
 
